@@ -1,0 +1,11 @@
+D:\UserManagerApp\UserManagerApp\bin\Debug\netcoreapp2.0\UserManagerApp.deps.json
+D:\UserManagerApp\UserManagerApp\bin\Debug\netcoreapp2.0\UserManagerApp.runtimeconfig.json
+D:\UserManagerApp\UserManagerApp\bin\Debug\netcoreapp2.0\UserManagerApp.runtimeconfig.dev.json
+D:\UserManagerApp\UserManagerApp\bin\Debug\netcoreapp2.0\UserManagerApp.dll
+D:\UserManagerApp\UserManagerApp\obj\Debug\netcoreapp2.0\UserManagerApp.csprojResolveAssemblyReference.cache
+D:\UserManagerApp\UserManagerApp\obj\Debug\netcoreapp2.0\UserManagerApp.csproj.CoreCompileInputs.cache
+D:\UserManagerApp\UserManagerApp\obj\Debug\netcoreapp2.0\UserManagerApp.AssemblyInfoInputs.cache
+D:\UserManagerApp\UserManagerApp\obj\Debug\netcoreapp2.0\UserManagerApp.AssemblyInfo.cs
+D:\UserManagerApp\UserManagerApp\bin\Debug\netcoreapp2.0\UserManagerApp.pdb
+D:\UserManagerApp\UserManagerApp\obj\Debug\netcoreapp2.0\UserManagerApp.dll
+D:\UserManagerApp\UserManagerApp\obj\Debug\netcoreapp2.0\UserManagerApp.pdb

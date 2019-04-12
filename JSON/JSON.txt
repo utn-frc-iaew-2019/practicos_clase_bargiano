@@ -1,0 +1,18 @@
+{
+  "nombres": "Florencia Belén",
+ 
+ "apellido": "Bargiano",
+  "legajo": 68467,
+ 
+ "Materias que faltan rendir": [
+    "comunicaciones",
+    "sop"
+  ],
+ 
+ 
+  "Materias que estoy cursando: ": ["Proyecto Final", "Adm Gerencial", "Sist. de Gestión", "IAEW", "Consultoria de Seguridad de SI/TI"]
+  ,
+ 
+ "dni": 39543537,
+  "fecha de nacimiento": "16/04/1996"
+}
