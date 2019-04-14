@@ -1,9 +1,0 @@
-
-Ejemplo URI bien definidas: 
-* https://www.linkedin.com/notifications/
-* https://www.adictosaltrabajo.com/2019/03/21/haciendo-vuen-frontend/
-* https://www.infobae.com/politica/2019/04/12/un-fiscal-se-opuso-a-que-cristina-kirchner-viaje-a-cuba-a-fin-de-mes/
-
-Ejemplo URI mal definidas: 
-* https://www.baenegocios.com/economia-finanzas/El-FMI-admite-que-Argentina-puede-no-recuperarse-este-ano-20190412-0022.html
-* https://www.cronica.com.ar/buscar.html
