@@ -1,0 +1,26 @@
+using ConsoleApplication1.ServiceReference1;
+
+
+var cliente = new WCFReservaVehiculosClient();
+
+            var Credenciales = new Credentials();
+            Credenciales.UserName = "grupo_nro3";
+            Credenciales.Password = "wGcs2tsBe5";
+
+            var Request = new ConsultarCiudadesRequest();
+
+            Request.IdPais = 1;
+            var result = cliente.ConsultarCiudades(Credenciales,Request);
+
+            foreach(var ciudad in result.Ciudades)
+            {
+                Console.WriteLine(ciudad.Nombre);
+            }
+
+
+
+
+////
+Para agregar la referencia al servicio:
+
+Click derecho en referencias, agregar referencia a servicio, colocar la url del servicio del profe, IR.
